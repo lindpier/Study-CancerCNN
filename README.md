@@ -9,7 +9,7 @@ https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras
 
 
 ## Presentation File
-
+https://docs.google.com/presentation/d/1VfHpu9pAJPXJzgkVsG4q1GcMTVn05VnyNVTeReye34U/edit#slide=id.p
 
 
 ## Links
